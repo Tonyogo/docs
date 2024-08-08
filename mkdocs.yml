@@ -1,1 +1,7 @@
 site_name: My Docs
+site_url: 'https://tonyogo.github.io/docs/'
+site_description: A simple async ORM with fastapi in mind and pydantic validation.
+repo_name: MyDocs
+repo_url: https://github.com/Tonyogo/docs
+theme:
+  name: material
